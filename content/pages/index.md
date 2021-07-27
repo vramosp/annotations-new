@@ -30,7 +30,6 @@ sections:
       - image: images/logo-1.svg
         image_alt: Contentful logo
         image_align: center
-        title: Contentful logo
       - image: images/logo-2.svg
         image_alt: Netlify logo
         image_align: center
