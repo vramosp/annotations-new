@@ -8,8 +8,7 @@ sections:
       Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec nisl
       ligula, cursus id molestie vel.
     actions:
-      - label: Tr
-        url: /pricing
+      - url: /pricing
         style: primary
       - label: Learn More
         url: /features
