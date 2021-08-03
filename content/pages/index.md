@@ -10,6 +10,7 @@ sections:
     actions:
       - url: /pricing
         style: primary
+        label: sdfdsf
       - label: Learn More
         url: /features
         style: secondary
