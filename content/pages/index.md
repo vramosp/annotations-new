@@ -14,7 +14,7 @@ sections:
       - label: Learn More
         url: /features
         style: secondary
-    image: images/classic/hero.png
+    image: /images/Z4foEks7_400x400.jpg
     image_alt: Hero section placeholder image
     media_position: left
     media_width: fifty
